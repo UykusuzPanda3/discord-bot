@@ -22,4 +22,4 @@ client.on('message', msg => {
 
 });
 
-client.login('proces.env.bot-token');
+client.login(proces.env.bot-token);
